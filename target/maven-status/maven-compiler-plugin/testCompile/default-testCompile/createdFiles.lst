@@ -1,0 +1,5 @@
+TSProblem/TSProblemTest.class
+TSProblem/NNTourSolverTest.class
+TSSolvers/SASolverTest.class
+io/bklim/tsp/DBHandlerTest.class
+TSProblem/RouletteSelectionTest.class
